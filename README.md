@@ -18,6 +18,8 @@ Esta es una aplicacin pequea pero muy ilustrativa que explica cmo utilizar React
 
 ### ● keys
 
+### ● claudia
+
 ### Giphy
 
 ![](https://res.cloudinary.com/dv6nijgvd/image/upload/v1714098401/DE%20TODO/ip6zx7bnnfju9rfe4mfw.png)
