@@ -2,8 +2,10 @@ import React from "react";
 import { useForm } from "../../hooks/useForm";
 import { getHeroesByName } from "../../selectors/getHeroesByName";
 import { HeroCard } from "../hero/HeroCard";
+import { useNavigate } from "react-router-dom";
 
 export const SearchScreen = () => {
+  const navigate = useNavigate();
   const [formValues, handleInputChange] = useForm({ searchText: "" });
 
   const { searchText } = formValues;
@@ -12,6 +14,8 @@ export const SearchScreen = () => {
   const handleSearch = (e) => {
     e.preventDefault();
     console.log(searchText);
+
+    navigate(`?q=${searchText}`);
   };
   return (
     <>
