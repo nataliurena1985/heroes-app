@@ -52,6 +52,8 @@ client
 CLIENT
 npm start
 
+npm install query-string
+
 
 
 
