@@ -24,7 +24,7 @@ Esta es una aplicacin pequea pero muy ilustrativa que explica cmo utilizar React
 
 ![](https://res.cloudinary.com/dv6nijgvd/image/upload/v1714098401/DE%20TODO/ip6zx7bnnfju9rfe4mfw.png)
 
-[Link url](https://heroes-app-topaz.vercel.app/)
+[Link url de la aplicacion](https://heroes-app-topaz.vercel.app/)
 
 [Reactjs.org-Estructura-de-directorios](https://es.reactjs.org/docs/faq-structure.html)
 
