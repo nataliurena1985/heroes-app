@@ -22,7 +22,7 @@ Esta es una aplicacin pequea pero muy ilustrativa que explica cmo utilizar React
 
 ### Giphy
 
-![](https://res.cloudinary.com/dv6nijgvd/image/upload/v1714098401/DE%20TODO/ip6zx7bnnfju9rfe4mfw.png)
+![](https://res.cloudinary.com/dv6nijgvd/image/upload/v1715716447/nodeANDreact/ferpmi19qwtq82sh6bhm.png)
 
 [Link url de la aplicacion](https://heroes-app-topaz.vercel.app/)
 
